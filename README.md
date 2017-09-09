@@ -14,6 +14,7 @@ For more details, see <https://github.com/ckulka/rhodecode-ce>.
 I follow the same naming scheme for the images as [RhodeCode](https://docs.rhodecode.com/RhodeCode-Enterprise/release-notes/release-notes.html) themselves
 
 - [latest](https://github.com/ckulka/rhodecode-ce/tree/master) (corresponds to 4.9.0)
+- [4.9.0](https://github.com/ckulka/rhodecode-ce/tree/4.9.0)
 
 ## Complete Stack
 
