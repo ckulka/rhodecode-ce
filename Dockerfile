@@ -6,7 +6,7 @@ ENV RC_VERSION	4.9.0
 
 ENV RC_USER		admin
 ENV RC_PASSWORD	ilovecookies
-ENV	RC_EMAIL	adalovelace@example.com
+ENV RC_EMAIL	adalovelace@example.com
 ENV RC_DB		postgresql://postgres:secret@db
 
 # Cache RhodeCode Community by installing & removing it

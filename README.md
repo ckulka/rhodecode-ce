@@ -1,7 +1,21 @@
 # RhodeCode Community Edition
 
+[![](https://images.microbadger.com/badges/version/ckulka/rhodecode-ce.svg)](https://github.com/ckulka/rhodecode-ce "Get your own version badge on microbadger.com")
+
 This image is the same as ckulka/rhodecode-rccontrol, with the exception that a
 RhodeCode Community Edition is installed and ready-to-use.
+
+`docker run -it -p 5000:5000 ckulka/rhodecode-ce`
+
+For more details, see <https://github.com/ckulka/rhodecode-ce>.
+
+## Supported Tags
+
+I follow the same naming scheme for the images as [RhodeCode](https://docs.rhodecode.com/RhodeCode-Enterprise/release-notes/release-notes.html) themselves
+
+- [latest](https://github.com/ckulka/rhodecode-ce/tree/master) (corresponds to 4.9.0)
+
+## Complete Stack
 
 The following `docker-compose.yaml` file spins up a complete RhodeCode stack
 
@@ -33,5 +47,3 @@ services:
       - db
       - vcsserver
 ```
-
-For more details, see `ckulka/rhodecode-rccontrol`.
