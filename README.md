@@ -9,7 +9,8 @@ RhodeCode Community Edition is installed and ready-to-use.
 
 I follow the same naming scheme for the images as [RhodeCode](https://docs.rhodecode.com/RhodeCode-Enterprise/release-notes/release-notes.html) themselves
 
-- [latest](https://github.com/ckulka/rhodecode-ce/tree/master) (corresponds to 4.10.5)
+- [latest](https://github.com/ckulka/rhodecode-ce/tree/master) (corresponds to 4.12.0)
+- [4.12.0](https://github.com/ckulka/rhodecode-ce/tree/4.12.0)
 - [4.10.5](https://github.com/ckulka/rhodecode-ce/tree/4.10.5)
 - [4.9.0](https://github.com/ckulka/rhodecode-ce/tree/4.9.0)
 
