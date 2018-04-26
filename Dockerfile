@@ -1,8 +1,8 @@
-FROM ckulka/rhodecode-rccontrol:1.16.0
+FROM ckulka/rhodecode-rccontrol:1.18.0
 LABEL maintainer="cyrill.kulka@gmail.com"
 
 ENV RC_APP		Community
-ENV RC_VERSION	4.10.5
+ENV RC_VERSION	4.12.0
 
 # Install RhodeCode Community Edition
 RUN .rccontrol-profile/bin/rccontrol	\
